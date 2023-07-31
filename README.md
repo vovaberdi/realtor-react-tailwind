@@ -3,71 +3,51 @@
 
 https://realtor-react-tailwind.vercel.app/
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to Dream Homes - Your Trusted Realtor Website
+Description:
+Dream Homes is a modern and reliable realtor website designed to help you find your dream property with ease. Our platform leverages cutting-edge technologies, including React, Tailwind CSS, Google Firebase Firestore, and OAuth 2.0 authentication, to provide a seamless user experience. By integrating the Google Location API, we ensure that you can explore properties in your desired locations effortlessly.
 
-## Available Scripts
+Key Features:
+User-Friendly Interface: Dream Homes offers an intuitive and user-friendly interface that makes searching for properties a breeze. Whether you are a first-time homebuyer or an experienced investor, navigating our platform is smooth and enjoyable.
 
-In the project directory, you can run:
+Secure Authentication: To protect your personal data and ensure a safe browsing experience, Dream Homes utilizes OAuth 2.0 authentication powered by Google Firebase. You can trust that your information is safeguarded with the highest level of security.
 
-### `npm start`
+Real-Time Property Listings: Our website is updated in real-time to reflect the latest property listings. You can be confident that the properties you see are currently available, eliminating any wasted time on outdated listings.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Advanced Search Options: Find your perfect property by using our advanced search options. Filter results based on location, property type, price range, number of bedrooms, and more, to narrow down your choices.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Google Location Integration: With the Google Location API, you can explore properties in specific neighborhoods, cities, or regions. Easily view nearby amenities, schools, and other points of interest to make informed decisions.
 
-### `npm test`
+Property Details and Media: Each property listing includes comprehensive details and high-quality images to give you a clear picture of what's available. You can also view virtual tours and floor plans for select properties.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Save Favorites and Compare: Save your favorite properties for future reference and easily compare multiple listings side by side to make the best decision.
 
-### `npm run build`
+Responsive Design: Dream Homes is built with a responsive design, ensuring that you can access the platform from any device, including desktops, tablets, and smartphones.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+How it Works:
+Create an Account: Sign up using your Google account to access the full features of Dream Homes. Your data is protected through Google Firebase's secure OAuth 2.0 authentication.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Search for Properties: Utilize the advanced search options and Google Location API to find properties that match your preferences and desired location.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Explore Property Listings: View detailed information, images, and media for each property listing. Save your favorite properties for easy access later.
 
-### `npm run eject`
+Compare Properties: Compare multiple properties side by side to make an informed decision based on your needs and preferences.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Contact Realtors: Get in touch with experienced realtors through our platform to schedule property viewings or ask any questions.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Stay Updated: Be the first to know about new properties that match your criteria with real-time updates.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Technical Stack:
+Frontend: React, Tailwind CSS
+Backend: Google Firebase Firestore
+Authentication: OAuth 2.0 (Google Firebase)
+Location API: Google Location API
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+![](https://github.com/vovaberdi/realtor-react-tailwind/blob/main/public/Screen%20Shot%202023-07-31%20at%2012.03.55.png)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![](https://github.com/vovaberdi/realtor-react-tailwind/blob/main/public/Screen%20Shot%202023-07-31%20at%2012.04.03.png)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![](https://github.com/vovaberdi/realtor-react-tailwind/blob/main/public/Screen%20Shot%202023-07-31%20at%2012.04.26.png)
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![](https://github.com/vovaberdi/realtor-react-tailwind/blob/main/public/Screen%20Shot%202023-07-31%20at%2012.04.34.png)
